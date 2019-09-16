@@ -19,6 +19,6 @@ __init__
 ```
 and from the directory containing all of the files, run the following command:
 ```
-TrieMain.py targets downloadable_files
+TrieMain.py targets.txt downloadable_files
 ``` 
 from a command line terminal. Be warned, due to the size of DNA files, this may take a while, depending on your individual box's processing speed.
